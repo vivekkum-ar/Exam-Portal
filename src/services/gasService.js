@@ -1,6 +1,6 @@
 import { SHEET_ID, GAS_URL } from '../config/config';
 
-const BASE_URL = GAS_URL || '';
+const BASE_URL = GAS_URL || 'https://exam-portal.vercel.app/api/gas'; // Fallback to local API route if GAS_URL is not set
 
 async function callGAS(action, payload = {}) {
   try {

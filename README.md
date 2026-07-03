@@ -135,9 +135,6 @@ npm run dev
 
 ### 3. Admin Login
 
-- **Username**: `admin`
-- **Password**: `Admin@123`
-
 Edit these in `src/config/config.js` if needed.
 
 ### 4. Candidate Login
