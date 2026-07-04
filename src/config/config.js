@@ -8,7 +8,7 @@ export const ADMIN_CONFIG = {
 export const SHEET_ID = '184Zbu1wkyRCXegJMa_5Zd3iyRimQSKbKjvanIIYXczM';
 
 // Google Apps Script Web App URL (to be updated after deployment)
-export const GAS_URL = 'https://exam-portal.vercel.app/api/gas';
+export const GAS_URL = 'https://exam-portal-mrvivekkr.vercel.app/api/gas';
 // Deployment ID: AKfycbzN4tOEfxKjSc2eA4muIbYpWsquAyJTXCnnEYol_dJdCLBxkSjJptdrGSLS5pETr16RIg
 // Institute settings
 export const INSTITUTE = {
